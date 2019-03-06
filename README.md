@@ -17,9 +17,9 @@ please don't hesitate to create a pull request with the new resource you found.
 
 ## Homework Assignments:
 
-None, currently :)
+Assignment 1 - the assignment is described in the `assignments/assignments1`.
 
-## Hackathon 
+## Hackathon
 
 The course's final project will be completed during a hackathon orchestrated by the Sagol school. A list of projects will be created later on this semester, and each student will assign him or herself to a project. Dates for the hackathon will be announced during the semster.
 
