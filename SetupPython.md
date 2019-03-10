@@ -16,9 +16,9 @@ the course.
 6. That's it! Python is installed and you're ready to code.
 
 ## Task 2: Version Control
-Scripts are saved and catalogued using version control. The application we'll use this semester is called `git`, and
-as a web interface we'll use GitHub.com. Exercise 1 contains explanations on how to setup version control on
-your system.
+Scripts are saved and catalogued using version control. The application we'll use this semester is called `git`, and as a web interface we'll use GitHub.com.
+
+To install `git` on Windows, go [here](https://git-scm.com/downloads), download the client for your operating system and install it.
 
 ## Task 3: Jupyter Notebook
 The classes are posted in an editable Jupyter Notebook format, which allows for live coding and easy code presentation.

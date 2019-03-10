@@ -84,12 +84,12 @@ if a function requires a list, please submit the HW with a mock list already in 
 
 ## Submission
 
-The submission guidelines for this exercise are unique, and should also serve as a learning experience
-on how to work with version control and GitHub.
+The submission guidelines for this exercise are unique, and should also serve as a learning experience on how to work with version control and GitHub.
 
 Version control is explained in the second class, which is already online, so I won't go into the "why?"
 aspect of it, and we'll just plunge right in.
 
+1. Install `git` as described in `SetupPython.md`, task #2.
 1. Create a new [GitHub.com](https://github.com) user (or use an existing one).
 2. Create a new repository. Name it. At the bottom of the page choose a Python `.gitignore` file.
 The `.gitignore` file specifies the files that are ignored, i.e. _not_ under version control.
