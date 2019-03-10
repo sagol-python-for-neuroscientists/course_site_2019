@@ -14,31 +14,25 @@ should be located inside that `.py` file.
 
     All three files should be placed in the same folder.
 
-3. At the end of these `.py` file should be this unindented code block:
+3. At the end of each of these `.py` file should be this unindented code block:
 
     ```python
     if __name__ == '__main__':
         # Question 1
         param1 = val1
         param2 = val2
-        return_value = main_function_name_for_question1(param1=param1,
-                                                        param2=param2)
-
+        return_value = function_for_question1(param1, param2)
         print(f"Question 1 solution: {return_value}")
-        # Question 2
-        # ...
     ```
 
-    * The first line checks that this file was run as the main file.
-      if indeed so, it executes the following code block.
+    * The first line checks that this file was run as the main file. If indeed so, it executes the following code block.
     * Your solution has to be run from a single function. If you wish to execute several
     functions\methods in your solution, do so inside this main function.
-    * All needed arguments for the _single main function_ should be defined.
+    * All needed arguments for the _single main function_, called `function_for_question1` in the case, should be defined.
     * Usually the name of this main function will be defined in the homework assignment.
     * Any returned values should be captured and printed if necessary.
-    * If you wrote your script as detailed, running the answer to a question should be
-      as easy as writing `python /path/to/hw1_question2.py` in the command line.
+    * If you wrote your script as detailed, running the answer to a question should be as easy as writing `python /path/to/hw1_question2.py` in the command line.
 
-4. Homework is submitted through the GitHub Classroom interface. For each homework assignment you'll receive a link to
+4. Homework (not the first) is submitted through the GitHub Classroom interface. For each homework assignment you'll receive a link to
 your own private repository in GitHub, to which you'll upload ("push") the files containing the homework exercises.
 At the due date, the last commit to the repository will be the one used for evaluation.
