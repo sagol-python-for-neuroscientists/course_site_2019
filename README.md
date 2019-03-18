@@ -17,7 +17,8 @@ please don't hesitate to create a pull request with the new resource you found.
 
 ## Homework Assignments:
 
-Assignment 1 - the assignment is described in the `assignments/assignments1`.
+* Assignment 1 - the assignment is described in the `assignments/assignments1`. Grades were handed out as issues in your repos.
+* Assignment 2 - Click [here](https://classroom.github.com/a/Lk_aw7SK) to open the repo. _Deadline:_ April 1st, 2019, 15:00.
 
 ## Hackathon
 
