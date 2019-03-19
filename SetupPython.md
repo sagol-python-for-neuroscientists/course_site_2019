@@ -25,7 +25,7 @@ The classes are posted in an editable Jupyter Notebook format, which allows for 
 It's also a great tool for "quick-and-dirty" data analyses. Thus I recommend you to install it and use it throughout the semester,
 and beyond.
 
-1. Activate your Python environment using `activate my_env`. As always, on Mac\Linux write `source activate my_env`.
+1. Activate your Python environment using `conda activate my_env`.
 2. Write `conda install jupyter notebook`.
 3. The notebook is installed! Run it with a simple `jupyter notebook` command. It will open a file browser which you can
 use to navigate to the folder containing existing notebooks, or to the folder in which you wish to create a new one.
