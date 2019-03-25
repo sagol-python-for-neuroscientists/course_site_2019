@@ -1,9 +1,7 @@
 # Setting Up Your Python Stack
 
 Below you can find the tools we'll use throughout the semester to work with Python. To complete exercise #1 you only have
-to compelete Task number 1 - "Python Setup". In the second week of the semester I'll show in class how to install
-the rest of the tools listed, so you should feel perfectly comfortable with postponing Tasks 2-3 till the second
-week of the semester.
+to compelete Tasks number 1 and 2.
 
 ## Task 1: Python Setup
 1. In the course we'll use Python 3.7, the latest Python version. The easiest way to install Python is via
@@ -18,7 +16,12 @@ the course.
 ## Task 2: Version Control
 Scripts are saved and catalogued using version control. The application we'll use this semester is called `git`, and as a web interface we'll use GitHub.com.
 
-To install `git` on Windows, go [here](https://git-scm.com/downloads), download the client for your operating system and install it.
+To install `git`, go [here](https://git-scm.com/downloads), download the client for your operating system and install it. Before using it you'll have to tell `git` who you are. Open a new command-line session, i.e. one that was opened after you finished installing `git`, and write the following two commands (with the proper values replaced):
+```bash
+git config --global user.name "MY_NAME"
+git config --global user.email "MY_EMAIL_ADDRESS"
+```
+The actual username and email don't matter that much, they just identify you when looking at your commits.
 
 ## Task 3: Jupyter Notebook
 The classes are posted in an editable Jupyter Notebook format, which allows for live coding and easy code presentation.
