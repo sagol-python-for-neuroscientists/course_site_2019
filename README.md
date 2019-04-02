@@ -25,4 +25,4 @@ please don't hesitate to create a pull request with the new resource you found.
 
 The course's final project will be completed during a hackathon orchestrated by the Sagol school. A list of projects will be created later on this semester, and each student will assign him or herself to a project.
 
-**We're currently considering the 19-20.6 as the dates for the hackathon. Please tell me if you have any conflicting tests or other obligations during these dates.**
+I've [created a doodle](https://doodle.com/poll/5uwatvbk7i9nn74r) with three available dates. Please fill in your suitable dates as soon as possible.
