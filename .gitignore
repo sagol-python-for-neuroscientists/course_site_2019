@@ -111,4 +111,4 @@ venv.bak/
 .vscode/
 
 *.csv
-assignment*/
+assignments/assignment*/
