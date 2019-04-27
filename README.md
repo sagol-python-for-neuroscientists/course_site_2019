@@ -1,6 +1,9 @@
 # Python for Neuroscientists
+
 ## Sagol School for Neuroscience, Tel Aviv University
+
 ### Spring semester, 2019
+
 #### By Hagai Har-Gil, hagaihargil@protonmail.com
 
 This repository contains material for the Python for Neuroscience course.
@@ -15,16 +18,15 @@ and editable and runnable with Jupyter Notebook.
 If you come across any useful learning resources which are not listed in `Resources.md`,
 please don't hesitate to create a pull request with the new resource you found.
 
-## Homework Assignments:
+## Homework Assignments
 
 * Assignment 1 - the assignment is described in the `assignments/assignments1`. Grades were handed out as issues in your repos.
 * Assignment 2 - Click [here](https://classroom.github.com/a/Lk_aw7SK) to open the repo. _Deadline:_ April 1st, 2019, 15:00. _Grades_ are in the `solutions_grades` folder.
-* Assignment 3 - Click [here](https://classroom.github.com/a/c22J_eQk) to open the repo. _Deadline:_ April 15th, 2019, 15:00.
+* Assignment 3 - Click [here](https://classroom.github.com/a/c22J_eQk) to open the repo. _Deadline:_ April 15th, 2019, 15:00. _Grades_ are in the `solutions_grades` folder.
+* Assignment 4 -
 
 ## Hackathon
 
 The course's final project will be completed during a hackathon orchestrated by the Sagol school. A list of projects will be created later on this semester, and each student will assign him or herself to a project.
-
-I've [created a doodle](https://doodle.com/poll/5uwatvbk7i9nn74r) with three available dates. Please fill in your suitable dates as soon as possible.
 
 **Update:** It seems that the date for the hackathon will be 19-20.6.
