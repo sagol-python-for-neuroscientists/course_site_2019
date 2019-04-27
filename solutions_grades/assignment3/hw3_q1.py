@@ -14,7 +14,7 @@ class FolderIterator:
     data.
     """
 
-    def __init__(self, foldername="./base"):
+    def __init__(self, foldername="base"):
         self.foldername = pathlib.Path(str(foldername))
         assert self.foldername.exists()
         self.uniques = []  # list of tuples of (filename, content)
