@@ -23,7 +23,7 @@ please don't hesitate to create a pull request with the new resource you found.
 * Assignment 1 - the assignment is described in the `assignments/assignments1`. Grades were handed out as issues in your repos.
 * Assignment 2 - Click [here](https://classroom.github.com/a/Lk_aw7SK) to open the repo. _Deadline:_ April 1st, 2019, 15:00. _Grades_ are in the `solutions_grades` folder.
 * Assignment 3 - Click [here](https://classroom.github.com/a/c22J_eQk) to open the repo. _Deadline:_ April 15th, 2019, 15:00. _Grades_ are in the `solutions_grades` folder.
-* Assignment 4 -
+* Assignment 4 - Click [here](https://classroom.github.com/a/yP6NbbNG) to open the repo. _Deadline:_ May 13th, 2019, 15:00.
 
 ## Hackathon
 
