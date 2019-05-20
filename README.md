@@ -20,16 +20,16 @@ please don't hesitate to create a pull request with the new resource you found.
 
 ## Homework Assignments
 
-* Assignment 1 - the assignment is described in the `assignments/assignments1`. Grades were handed out as issues in your repos.
-* Assignment 2 - Click [here](https://classroom.github.com/a/Lk_aw7SK) to open the repo. _Deadline:_ April 1st, 2019, 15:00. _Grades_ are in the `solutions_grades` folder.
-* Assignment 3 - Click [here](https://classroom.github.com/a/c22J_eQk) to open the repo. _Deadline:_ April 15th, 2019, 15:00. _Grades_ are in the `solutions_grades` folder.
-* Assignment 4 - Click [here](https://classroom.github.com/a/yP6NbbNG) to open the repo. _Deadline:_ May 13th, 2019, 15:00.
+* Assignment 1 - the assignment is described in the ``assignments/assignments1`` folder. Grades were handed out as issues in your repos.
+* Assignment 2 - Click [here](https://classroom.github.com/a/Lk_aw7SK) to open the repo. _Deadline:_ April 1st, 2019, 15:00. _Grades_ are in the ``solutions_grades`` folder.
+* Assignment 3 - Click [here](https://classroom.github.com/a/c22J_eQk) to open the repo. _Deadline:_ April 15th, 2019, 15:00. _Grades_ are in the ``solutions_grades`` folder.
+* Assignment 4 - Click [here](https://classroom.github.com/a/yP6NbbNG) to open the repo. _Deadline:_ May 13th, 2019, 15:00. _Grades_ are in the ``solutions_grades`` folder.
 
 ## Hackathon
 
 The course's final project will be completed during a hackathon orchestrated by the Sagol school. A list of projects will be created later on this semester, and each student will assign him or herself to a project.
 
-**Update:** It seems that the date for the hackathon will be 19-20.6.
+The hackathon will be conducted in Wednesday-Thursday, 19-20.6. Please send me your project ideas ASAP.
 
 ## Alternate class dates
 Due to the strike we'll have a class on Sunday, 26.5, between 10-13 in Sherman 009 (our usual spot). The second missing class will occur on our last official meetup, 10.6, which was supposed to be cancelled.
