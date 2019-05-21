@@ -33,4 +33,5 @@ The course's final project will be completed during a hackathon orchestrated by 
 The hackathon will be conducted in Wednesday-Thursday, 19-20.6. Please send me your project ideas ASAP.
 
 ## Alternate class dates
+
 Due to the strike we'll have a class on Sunday, 26.5, between 10-13 in Sherman 009 (our usual spot). The second missing class will occur on our last official meetup, 10.6, which was supposed to be cancelled.
