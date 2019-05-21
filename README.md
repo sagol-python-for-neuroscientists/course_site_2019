@@ -24,6 +24,7 @@ please don't hesitate to create a pull request with the new resource you found.
 * Assignment 2 - Click [here](https://classroom.github.com/a/Lk_aw7SK) to open the repo. _Deadline:_ April 1st, 2019, 15:00. _Grades_ are in the ``solutions_grades`` folder.
 * Assignment 3 - Click [here](https://classroom.github.com/a/c22J_eQk) to open the repo. _Deadline:_ April 15th, 2019, 15:00. _Grades_ are in the ``solutions_grades`` folder.
 * Assignment 4 - Click [here](https://classroom.github.com/a/yP6NbbNG) to open the repo. _Deadline:_ May 13th, 2019, 15:00. _Grades_ are in the ``solutions_grades`` folder.
+* Assignment 5 - The repo is [here](https://github.com/sagol-python-for-neuroscientists/hw5_2019). HW submission is different, check the `README` for details. _Deadline:_ June 3rd, 2019, 15:00.
 
 ## Hackathon
 
