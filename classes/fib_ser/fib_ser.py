@@ -22,14 +22,16 @@ class CompareSeries:
         fib_arr = self.gen_fib_arr()
         prime_arr = self.gen_prime_arr()
         diff = fib_arr - prime_arr
+        self._plot(diff)
+        return diff
 
-        # Plots
-        fig, ax = plt.subplots()
-        ax.plot(diff)
+    def _plot(self, diff):
+        """ Plots the given results """
+        _, ax = plt.subplots()
+        ax.plot(diff, 'o')
         ax.set_title('Fibonacci - Primes')
         ax.set_xlabel('n')
         ax.set_ylabel('Difference')
-        return diff
 
     def gen_fib_arr(self):
         """ Create a Fibonacci series up to some n """
@@ -47,7 +49,7 @@ class CompareSeries:
         num = 3
         result = [2]
         primes_found = 0
-        while primes_found < self.n-1:
+        while primes_found < (self.n - 1):
             for divisor in range(num-1, 1, -1):
                 if num % divisor == 0:
                     break
@@ -60,3 +62,4 @@ class CompareSeries:
 
 if __name__ == '__main__':
     print(CompareSeries(10).compare())
+    plt.show()

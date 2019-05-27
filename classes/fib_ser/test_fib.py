@@ -3,7 +3,8 @@ __author__ = Hagai Har-Gil
 """
 import pytest
 import numpy as np
-from ..fib_ser import *
+
+from fib_ser import *
 
 
 class TestFib:
@@ -17,15 +18,15 @@ class TestFib:
 
     def test_fib_valid(self):
         result = CompareSeries(4).gen_fib_arr()
-        assert np.all(result == self.fib[:4])
+        assert np.array_equal(result, self.fib[:4])
 
     def test_fib_single(self):
         result = CompareSeries(1).gen_fib_arr()
-        assert all(result == np.array([0]))
+        assert np.array_equal(result, np.array([0]))
 
     def test_primes_valid(self):
         result = CompareSeries(6).gen_prime_arr()
-        assert np.all(result == self.primes[:6])
+        assert np.array_equal(result, self.primes[:6])
 
     def test_primes_single(self):
         result = CompareSeries(1).gen_prime_arr()
@@ -34,7 +35,7 @@ class TestFib:
     # Integration tests
     def test_valid(self):
         result = CompareSeries(8).compare()
-        assert np.all((self.fib - self.primes) == result)
+        assert np.array_equal((self.fib - self.primes), result)
 
     def test_zero(self):
         assert len(CompareSeries(0).compare()) == 0
