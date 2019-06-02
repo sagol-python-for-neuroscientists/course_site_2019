@@ -112,4 +112,4 @@ venv.bak/
 
 *.csv
 assignments/assignment*/
-projects/
+hackathon/mri_pipe/
