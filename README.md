@@ -29,4 +29,4 @@ please don't hesitate to create a pull request with the new resource you found.
 
 ## Hackathon
 
-Information of this year's hackathon is located in the `hackathon` folder.
+Information for this year's hackathon is located in the `hackathon` folder.
