@@ -4,7 +4,7 @@
 
 ### Spring semester, 2019
 
-#### By Hagai Har-Gil, hagaihargil@protonmail.com
+#### By Hagai Har-Gil, hagaihargil[at]protonmail[dot]com
 
 This repository contains material for the Python for Neuroscience course.
 The materials include classes, some assignments and other useful information.
@@ -29,10 +29,4 @@ please don't hesitate to create a pull request with the new resource you found.
 
 ## Hackathon
 
-The course's final project will be completed during a hackathon orchestrated by the Sagol school. A list of projects will be created later on this semester, and each student will assign him or herself to a project.
-
-The hackathon will be conducted in Wednesday-Thursday, 19-20.6. Please send me your project ideas ASAP.
-
-## Alternate class dates
-
-Due to the strike we'll have a class on Sunday, 26.5, between 10-13 in Sherman 009 (our usual spot). The second missing class will occur on our last official meetup, 10.6, which was supposed to be cancelled.
+Information of this year's hackathon is located in the `hackathon` folder.

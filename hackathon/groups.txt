@@ -1,0 +1,21 @@
+Name	            Final Group
+Sarit malayev	    6		               #1 Real-time Readout and Analysis of Analog Data
+Shachar Gal	        6		               #2 Sub-movements Detection From Motion-capture Data
+Stanislav Steinberg	2	                   #3 MRI Magnetic Field Reconstruction,
+Ronnie Krupnik	    6		               #4 Eye Tracker Analysis
+Noa Matosevich	    1		               #5 Exploratory Genetic Analysis,
+Guy Teichman	    5		               #6 Graphical User Interface for fMRI Data Exploration
+Goni Naamani	    4
+naama friedman	    6
+Eran Ben Arosh	    3
+Liz Izakson	        2
+Nitzan Albeck	    4
+Nofar Schneider	    1
+Yonatan Kazir	    1
+Meyrav Dayan	    2
+Or Ganon	        5
+Yossi Sadot Sogrin	4
+Dekel Vered	        3
+Shachar Shani 	    5
+Netta Dunsky	    5
+Orin Bibas	        1
