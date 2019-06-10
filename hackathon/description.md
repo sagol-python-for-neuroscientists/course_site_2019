@@ -8,6 +8,12 @@ The hackathon will take place during June 19-20th. We start at 9 AM on Wednesday
 
 The next day you arrive at your own pace, but shortly after noon time you're expected to start preparing your presentations. The grade for the hackathon is determined mostly by this presentation, so make sure it displays the work you've done in the past two days in a comprehensive manner. A presentation template can be found in this folder. Presentations start at 15:00, and we expect the event to end by 16:30.
 
+## Grading
+
+40% - Code quality - usage of objects\methdos\functions, proper libraries, tests, git, PyPI.
+40% - Collaboration and Presentation
+20% - Is the application usable?
+
 ## Project 1: Real-time Readout and Analysis of Analog Data
 ### Mentor: Dr. Jason Friedman
 
@@ -33,7 +39,7 @@ Relevant libraries:
 MRI machines are extremely expensive in part due to the perfect homogenic magnetic field that has to be generated inside them. But what if you could generate a non-perfect field, and correct the recorded data by analyzing the imperfections in the generated field? In this project students will create a pipeline that simulates such non-perfect MRI data by "spoiling" perfect data in a known manner, only to the try to reconstruct the true, "perfect" field using existing methods in the literature.
 
 Relevant libraries:
-1. `tkinter` (for a simple GUI)
+1. `PySimpleGUI`
 2. `multiprocessing`
 3. `matplotlib`
 4. `xarray`
@@ -44,7 +50,7 @@ Relevant libraries:
 Prof. Galit Yovel's Person Recognition lab experiments with human subjects on topics related to the way we recognize other humans. To answer these questions they use an eye-tracking device, which records the coordinates of the screen pixel that the subject's eye was gazing upon every moment. In a recent experiment, they showed three types of images to subjects and asked them to fixate on a specific point on the screen. However, they can't be sure that subjects _did_ look on that point during all times, and whether specific events occurring on-screen motivated these shifts. The goal of the project is to create a tool that given the raw data and the general experimental design, outputs figures showing a "heatmap" of the gaze of each subject, as well as more quantitave data regarding the correlation of the fixation times to the other things happening on-screen.
 
 Relevant libraries:
-1. `tkinter` (simple GUI)
+1. `PySimpleGUI`
 2. `pandas`
 3. `matplotlib`
 
