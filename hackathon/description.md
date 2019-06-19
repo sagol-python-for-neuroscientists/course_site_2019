@@ -20,7 +20,7 @@ The next day you arrive at your own pace, but shortly after noon time you're exp
 For this project, students will create an application that runs a game used to study coordination in humans. During this game, the subject presses on a pressure sensitive detector, which in turn controls the behavior of a figure on a screen, in a very similar fashion to [flappy bird](https://flappybird.io/). The two main parts of the project consist of (1) connecting and reading the pressure data from a digital-to-analog device, and (2) interpreting this data and sending it online to a process which is responsible to move a figure on screen based on the value that was recorded by the sensor.
 
 Relevant Libraries:
-1. `matplotlib`
+1. `pygame`
 2. `zeromq`
 
 # Project 2: Sub-movements Detection From Motion-capture Data
