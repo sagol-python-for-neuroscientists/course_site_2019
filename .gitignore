@@ -109,7 +109,9 @@ venv.bak/
 
 .idea/
 .vscode/
+XDG_CACHE_HOME/
 
 *.csv
-assignments/assignment*/
-hackathon/mri_pipe/
+assignments/assignment[2-6]/
+hackathon/*/
+hackathon/*.*
