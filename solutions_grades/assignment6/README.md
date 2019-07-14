@@ -1,7 +1,7 @@
 # Homework Assignment #6
 
-### Date: xx-xx-2018
-### Due date: xx-xx-2018
+### Date: 27-05-2019
+### Due date: 17-06-2019, 15:00.
 
 ## Three-dimensional _Submarines_ Game
 
@@ -9,32 +9,40 @@ This homework has but one assignment - design a "Submarines" game. As you might 
 in Submarines each player has a board, hidden from his or her opponent, with "submarine-like" pieces
 placed on it. At each turn a player targets a specific cell in the other player's board, in
 hopes of hitting a marine vessel. The targeted player announces if one of his vessels was
-hit, and when all vessels are sunk the game is over.
+hit, and when all vessels as sunk the game is over.
 
 The game we'll write will also serve two players, sitting on the same computer. Each player
 fires at a specific coordinate, and if he hits the game should announce so. A screen cast
 of the dynamics of the game can be found in this repo.
 
-However, the game is a bit more unique than your standard Submarines game in a couple of ways:
+The game is a bit more unique that your standard Submarines game in a couple of ways:
 
 1. The game has three dimensions - three two-dimensional layers (deep sea, sea-level, and air). There are unique vessels
 for each layer:
 
     - Submarines (level 0): When hit, it instantly dies (`Signal.KILL` in the screen cast). Its shape:
+
     ```
+
                        1
     1  1  1     or     1
                        1
     ```
+
     - Destroyer (level 1): More sturdy, so it has to be gunned down completely for it to be taken down. Its shape:
+
     ```
+
                           1
     1  1  1  1     or     1
                           1
                           1
     ```
+
     - Jet (level 2): Like a submarine, a single hit destroys it. Shape:
+
     ```
+
     0 1 0        0  0  1  0
     1 1 1   or   1  1  1  1
     0 1 0        0  0  1  0
@@ -56,14 +64,21 @@ number of units (but only one General), and the computer should randomly allocat
 each player's board.
 
 ### Grading
+
 No tests are provided, since these will hint towards a "direction" as to how to design this game internally,
-which is exactly what I want you to think about and practice. Hence I will examine closely the following aspects:
+which is exactly what I want you to think about and practice. Also, you should write your own
+for this app. Hence I will examine closely the following aspects:
 
 1. Simple, clean user API, with clear documentation of the relevant functions.
 2. Extensibility: It shouldn't require much if I want to add another type of piece to the game.
 3. Ability to `show` and `quit` during the game.
 4. Input verification.
 5. Asserting that pieces do not overlap on the board, or go out-of-bounds.
-6. Use of inheritance (and OO in general) and enumerations (`enum` module) is encouraged.
+6. Use of single-level inheritance (and OO in general) and enumerations (`enum` module) is encouraged.
+   Other helpful libraries include `attrs` for the different classes and perhaps `numpy` for the board.
+
+### Submission
+
+Submission of this exercise is also done via a pull request to this repo, as explained in HW5.
 
 Good luck!
